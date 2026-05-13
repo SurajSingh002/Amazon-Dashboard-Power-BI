@@ -1,7 +1,7 @@
 # 📊 Amazon Sales Dashboard using Power BI
 
 👋 About Me  
-Hi, I'm *Suraj Singh*, a B.Tech Final Year student and aspiring Data Analyst & Data Science Engineer.
+Hi, I'm *Suraj Singh*, a B.Tech Final Year student and aspiring Data Science & Machine Learning Engineer.
 
 
 # 📌 Project Overview
@@ -113,7 +113,7 @@ Amazon-Sales-Dashboard/
 ## Suraj Singh
 
 B.Tech Final Year Student  
-Aspiring Data Analyst & Data Science Engineer
+Aspiring Data Science & Machine Learning Engineer.
 
 GitHub Profile:  
 https://github.com/SurajSingh002
